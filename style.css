@@ -1,0 +1,90 @@
+/**
+ * style.css
+ *
+ * Theme Name: Alpha WordPress Framework
+ * Theme URI: http://www.tutsplus.com
+ * Description: A clean foundation for future WordPress themes.
+ * Version: 1.0
+ * Author: Adi Purdila
+ * Author URI: http://www.adipurdila.com
+ * License: GNU General Public License version 3.0
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
+ * Tags: one-column, two-columns, right-sidebar, left-sidebar, fluid-layout, custom-menu, featured-images, post-formats, sticky-post, translation-ready
+ * Text Domain: alpha;
+ */
+ div class="post col-md-6">
+                  <a href="#" class="post-thumbnail">
+                    <img src="http://placekitten.com/610/300" class="img-responsive">
+                  </a>
+                  <article class="post-excerpt">
+                    <div>
+                      <a href="#"><h3>Lorem Ipsum</h3></a>
+                      <p class="post-meta">
+                        by <a href="#">Cory Simmons</a> on <span>November 15th, 2014</span>
+                      </p>
+				  </div>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis explicabo aperiam veritatis necessitatibus nemo dolore consequatur fugit, non sapiente tempore, commodi voluptatem libero, quae repudiandae pariatur totam voluptatum officia aliquid?
+                    </p>
+                  </article>
+                </div>
+                <!-- /.post -->
+                <!-- Post -->
+                <div class="post col-md-6">
+                  <a href="#" class="post-thumbnail">
+                    <img src="http://placekitten.com/609/300" class="img-responsive">
+                  </a>
+                  <article class="post-excerpt">
+				  <div>
+                      <a href="#"><h3>Lorem Ipsum</h3></a>
+                      <p class="post-meta">
+                        by <a href="#">Cory Simmons</a> on <span>November 15th, 2014</span>
+                      </p>
+				  </div>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis explicabo aperiam veritatis necessitatibus nemo dolore consequatur fugit, non sapiente tempore, commodi voluptatem libero, quae repudiandae pariatur totam voluptatum officia aliquid?
+                    </p>
+                  </article>
+                </div>
+                <!-- /.post -->
+                <!-- Post -->
+                <div class="post col-md-6">
+                  <a href="#" class="post-thumbnail">
+                    <img src="http://placekitten.com/608/300" class="img-responsive">
+                  </a>
+                  <article class="post-excerpt">
+				  <div>
+                      <a href="#"><h3>Lorem Ipsum</h3></a>
+                      <p class="post-meta">
+                        by <a href="#">Cory Simmons</a> on <span>November 15th, 2014</span>
+                      </p>
+				  </div>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis explicabo aperiam veritatis necessitatibus nemo dolore consequatur fugit, non sapiente tempore, commodi voluptatem libero, quae repudiandae pariatur totam voluptatum officia aliquid?
+                    </p>
+                  </article>
+                </div>
+                <!-- /.post -->
+                <!-- Post -->
+                <div class="post col-md-6">
+                  <a href="#" class="post-thumbnail">
+                    <img src="http://placekitten.com/607/300" class="img-responsive">
+                  </a>
+                  <article class="post-excerpt">
+				  <div>
+                      <a href="#"><h3>Lorem Ipsum</h3></a>
+                      <p class="post-meta">
+                        by <a href="#">Cory Simmons</a> on <span>November 15th, 2014</span>
+                      </p>
+				  </div>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis explicabo aperiam veritatis necessitatibus nemo dolore consequatur fugit, non sapiente tempore, commodi voluptatem libero, quae repudiandae pariatur totam voluptatum officia aliquid?
+                    </p>
+                  </article>
+                </div>
+                <div class="col-md-12">
+                <ul class="nav nav-pills">
+                  <li role="presentation" class="active"><a href="#">1</a></li>
+                  <li role="presentation"><a href="#">2</a></li>
+                  <li role="presentation"><a href="#">3</a></li>
+                </ul>
+              </div>
